@@ -52,15 +52,15 @@ weather-web-app/
 ├── index.html         # HTML structure
 ├── style.css          # CSS for styling
 ├── script.js          # JavaScript for functionality
-├── assets/            # Images and icons
-│   ├── background.jpg
-│   ├── clouds.png
-│   ├── rain.png
-│   ├── clear.png
-│   ├── drizzle.png
-│   ├── mist.png
-│   ├── snow.png
-│   └── search.png
+└── assets/            # Images and icons
+    ├── background.jpg
+    ├── clouds.png
+    ├── rain.png
+    ├── clear.png
+    ├── drizzle.png
+    ├── mist.png
+    ├── snow.png
+    └── search.png
 ```
 
 ---
