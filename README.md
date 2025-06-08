@@ -1,4 +1,4 @@
-# Weather App
+# Weather Web App
 
 This project is a simple weather application that fetches real-time weather data from the OpenWeather API and displays it in an interactive user interface. Users can input a city name to retrieve information such as temperature, humidity, wind speed, and a weather icon corresponding to the current weather condition.
 
