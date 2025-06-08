@@ -28,13 +28,13 @@ This project is a simple weather application that fetches real-time weather data
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/weather-app.git
+   git clone https://github.com/your-username/weather-web-app.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd weather-app
+   cd weather-web-app
    ```
 
 3. Open the `index.html` file in your preferred web browser:
@@ -48,7 +48,7 @@ This project is a simple weather application that fetches real-time weather data
 ## File Structure
 
 ```
-weather-app/
+weather-web-app/
 ├── index.html         # HTML structure
 ├── style.css          # CSS for styling
 ├── script.js          # JavaScript for functionality
